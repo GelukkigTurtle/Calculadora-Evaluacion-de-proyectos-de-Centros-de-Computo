@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" prefHeight="298.0" prefWidth="274.0" xmlns:fx="http://javafx.com/fxml" fx:controller="tascmanager.controller.InformacionController">
+  <children>
+    <Button fx:id="btnOK" layoutX="99.0" layoutY="263.0" mnemonicParsing="false" onAction="#clickOKey" prefWidth="76.0" text="OK" />
+    <TextArea editable="false" layoutX="14.0" layoutY="14.0" prefHeight="233.0" prefWidth="246.0" text="                       TASC MANAGER&#10;&#10;Product Version&#10;TASC Manager 1.0 (BETA)&#10;&#10;TurtleSoftware 2013&#10;Autor: Freddy Ayala&#10;&#10;Comments: fredd.seb8@gmail.com&#10;&#10;License: &#10;Este programa es software libre: usted puede redistribuirlo y / o modificarlo&#10;bajo los términos de la Licencia Pública General GNU publicada por la Fundación para el Software Libre, ya sea la versión 3 de la Licencia, o (a su elección) cualquier versión posterior.&#10;&#10;Este programa se distribuye con la esperanza de que sea útil, pero SIN NINGUNA GARANTÍA, incluso sin la garantía implícita de COMERCIALIZACIÓN o IDONEIDAD PARA UN PROPÓSITO PARTICULAR. Consulte la GNU General Public License para más detalles.&#10;&#10;Debería haber recibido una copia de la Licencia Pública General de GNU  junto con este programa. Si no es así, consulte http://www.gnu.org/licenses/&#10;" wrapText="true" />
+  </children>
+</AnchorPane>
