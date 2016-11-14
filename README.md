@@ -6,7 +6,7 @@ To run the Bank Financing Calculator you must download the respository and impor
 in Windows SO you can use the installer exec file in 
 
 
-This program offer 4 posible financing calulations by payment selection
+#### This program offer 4 posible financing calulations by payment selection
 
 1) Payment of principal and interest at the end of the N years
 
@@ -17,7 +17,7 @@ This program offer 4 posible financing calulations by payment selection
 4) Payment of interest and proportional share of capital (20% each year) at the end of each of the N years
 
 
-And offer 3 posible TIR calculations
+#### And offer 3 posible TIR calculations
 
 1) Calculation of TIR with constant currencies without inflation	
 
@@ -36,5 +36,5 @@ And offer 3 posible TIR calculations
 
 2) Tab 2: TIR Calculation
 
-![alt tag](https://raw.githubusercontent.com/GelukkigTurtle/bank-financing-calculator/master/screenshots/1.jpg)
+![alt tag](https://raw.githubusercontent.com/GelukkigTurtle/bank-financing-calculator/master/screenshots/2.jpg)
 
